@@ -1,6 +1,6 @@
 # 👋 Hi, I'm a MERN Stack Developer
 
-### 💻 MERN Stack Developer | 🎓 Computer Science Student | 🚀 Building Full-Stack Web Applications
+### 💻 MERN Stack Developer | 🎓 Computer Science Student | 🚀 Building Full-Stack Web Applications| AI Reasearcher
 
 I'm a **3rd-year Computer Science student** passionate about web development and building modern, responsive, and user-friendly web applications.
 
